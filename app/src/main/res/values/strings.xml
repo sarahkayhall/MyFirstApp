@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First App and A Riddle...</string>
+    <string name="riddle">Riddle: What is at the end of a rainbow?</string>
+    <string name="edit_message">Enter your answer</string>
+    <string name="button_send">Send</string>
+    <string name="assignment1">The actual answer is: the letter "w".</string>
+    <string name="educated">#educated</string>
+
+</resources>
